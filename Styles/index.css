@@ -1,0 +1,65 @@
+h1
+{
+   color: #194d33;
+   font-size: 60px;
+   font-weight: 600;
+   font-style: normal;
+   text-align: center;
+   background-color:#53c68c;
+   text-transform: capitalize;
+}  
+h4
+{
+   color: #194d33;
+}
+nav 
+{
+   color: #53c68c;
+   font-size: 40px;
+   font-weight: 400;
+   font-style: italic;
+}
+a
+{
+   color: #194d33;
+   font-size: 30px;
+   font-weight: 400;
+   font-style: normal;
+   text-decoration:none;
+}
+p
+{
+   color: #2d8659;
+   font-size: 30px;
+   font-weight: 600;
+   font-style: normal;
+   text-align: center;
+} 
+body 
+{
+  background-color:#c2fbdf;
+}
+img
+{
+   border-width: 10px;
+   border-style: solid;
+   border-radius: 10%;
+   border-color:#2d8659;
+   box-shadow: 10px 10px 100px 10px #53c68c;
+}
+
+section
+{
+   text-align: center;
+}
+
+footer
+{
+   text-align: center;
+}
+
+/* 
+#194d33 dark shade
+#2d8659 medium shade
+#53c68c light shade
+#c2fbdf lightest
